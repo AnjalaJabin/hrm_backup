@@ -1,0 +1,110 @@
+[25-Aug-2017 14:41:28 UTC] PHP Fatal error:  Call to a member function result() on array in /home/appcorbuz/public_html/app/application/controllers/Settings.php on line 1559
+[25-Aug-2017 14:43:48 UTC] PHP Fatal error:  Call to a member function result() on array in /home/appcorbuz/public_html/app/application/controllers/Settings.php on line 1559
+[25-Aug-2017 19:39:12 UTC] PHP Fatal error:  Call to undefined function ln2br() in /home/appcorbuz/public_html/app/application/views/contact/dialog_contact.php on line 367
+[25-Aug-2017 19:39:16 UTC] PHP Fatal error:  Call to undefined function ln2br() in /home/appcorbuz/public_html/app/application/views/contact/dialog_contact.php on line 367
+[25-Aug-2017 19:39:26 UTC] PHP Fatal error:  Call to undefined function ln2br() in /home/appcorbuz/public_html/app/application/views/contact/dialog_contact.php on line 367
+[25-Aug-2017 19:39:32 UTC] PHP Fatal error:  Call to undefined function ln2br() in /home/appcorbuz/public_html/app/application/views/contact/dialog_contact.php on line 367
+[25-Aug-2017 19:39:36 UTC] PHP Fatal error:  Call to undefined function ln2br() in /home/appcorbuz/public_html/app/application/views/contact/dialog_contact.php on line 367
+[13-Sep-2017 12:17:51 UTC] PHP Fatal error:  Call to undefined method xin_model::get_salary_employees() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 777
+[13-Sep-2017 12:18:20 UTC] PHP Fatal error:  Call to undefined method xin_model::get_salary_employees() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 777
+[16-Sep-2017 08:05:23 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/appcorbuz/public_html/app/application/controllers/Documents.php on line 134
+[16-Sep-2017 08:06:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/appcorbuz/public_html/app/application/controllers/Documents.php on line 133
+[16-Sep-2017 08:07:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/appcorbuz/public_html/app/application/controllers/Documents.php on line 133
+[16-Sep-2017 08:08:33 UTC] PHP Fatal error:  Cannot use object of type PDO as array in /home/appcorbuz/public_html/app/application/controllers/Documents.php on line 133
+[16-Sep-2017 08:09:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/appcorbuz/public_html/app/application/controllers/Documents.php on line 133
+[17-Sep-2017 14:09:08 UTC] PHP Fatal error:  Call to undefined method payroll_model::total_hours_worked_payslip() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 787
+[17-Sep-2017 14:09:18 UTC] PHP Fatal error:  Call to undefined method payroll_model::total_hours_worked_payslip() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 787
+[17-Sep-2017 14:26:31 UTC] PHP Fatal error:  Call to undefined method payroll_model::get_advance_salaries_report() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 848
+[17-Sep-2017 14:26:43 UTC] PHP Fatal error:  Call to undefined method payroll_model::get_advance_salaries() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 779
+[17-Sep-2017 14:29:23 UTC] PHP Fatal error:  Call to undefined method payroll_model::get_advance_salaries() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 779
+[17-Sep-2017 14:29:51 UTC] PHP Fatal error:  Call to undefined method payroll_model::get_advance_salaries() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 779
+[17-Sep-2017 14:37:24 UTC] PHP Fatal error:  Call to undefined method employees_model::get_employees_2() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1070
+[17-Sep-2017 14:37:45 UTC] PHP Fatal error:  Call to undefined method employees_model::get_employees_2() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1070
+[17-Sep-2017 14:44:26 UTC] PHP Fatal error:  Call to undefined method payroll_model::add_advance_salary_payroll() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2237
+[17-Sep-2017 14:53:08 UTC] PHP Fatal error:  Call to undefined method payroll_model::read_advance_salary_info() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1677
+[17-Sep-2017 14:54:03 UTC] PHP Fatal error:  Call to undefined method payroll_model::read_advance_salary_info() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1677
+[17-Sep-2017 14:55:11 UTC] PHP Fatal error:  Call to undefined method payroll_model::read_advance_salary_info() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1677
+[17-Sep-2017 14:55:23 UTC] PHP Fatal error:  Call to undefined method payroll_model::read_advance_salary_info() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1677
+[17-Sep-2017 14:56:03 UTC] PHP Fatal error:  Call to undefined method payroll_model::read_advance_salary_info() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1677
+[17-Sep-2017 14:57:16 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salary_by_employee_id() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_make_payment.php on line 14
+[17-Sep-2017 14:57:24 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salary_by_employee_id() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_make_payment.php on line 14
+[17-Sep-2017 14:57:28 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salary_by_employee_id() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_make_payment.php on line 14
+[17-Sep-2017 14:57:43 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salary_by_employee_id() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_make_payment.php on line 14
+[17-Sep-2017 14:57:57 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salary_by_employee_id() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_make_payment.php on line 14
+[17-Sep-2017 14:58:46 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salary_by_employee_id() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_make_payment.php on line 14
+[17-Sep-2017 14:58:53 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salary_by_employee_id() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_make_payment.php on line 14
+[17-Sep-2017 15:02:38 UTC] PHP Fatal error:  Call to undefined method payroll_model::updated_advance_salary_payroll() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2288
+[17-Sep-2017 15:14:13 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salary_by_employee_id() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_make_payment.php on line 14
+[17-Sep-2017 15:14:31 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salary_by_employee_id() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_make_payment.php on line 14
+[17-Sep-2017 15:16:08 UTC] PHP Fatal error:  Call to undefined method payroll_model::get_paid_salary_by_employee_id() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_make_payment.php on line 15
+[17-Sep-2017 15:26:20 UTC] PHP Fatal error:  Cannot redeclare payroll_model::read_template_information() in /home/appcorbuz/public_html/app/application/models/Payroll_model.php on line 402
+[17-Sep-2017 15:30:25 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salaries_report_view() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1707
+[18-Sep-2017 07:23:15 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salaries_report_view() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1707
+[18-Sep-2017 07:54:41 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salaries_report_view() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1707
+[18-Sep-2017 07:55:03 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salaries_report_view() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1707
+[18-Sep-2017 08:02:09 UTC] PHP Fatal error:  Call to undefined method payroll_model::requested_date_details() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_advance_salary.php on line 282
+[18-Sep-2017 08:02:53 UTC] PHP Fatal error:  Call to undefined method payroll_model::requested_date_details() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_advance_salary.php on line 282
+[18-Sep-2017 08:03:54 UTC] PHP Fatal error:  Call to undefined method payroll_model::advance_salaries_report_view() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1707
+[18-Sep-2017 08:04:43 UTC] PHP Fatal error:  Call to undefined method payroll_model::requested_date_details() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_advance_salary.php on line 282
+[18-Sep-2017 08:16:26 UTC] PHP Fatal error:  Call to undefined method payroll_model::requested_date_details() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_advance_salary.php on line 282
+[18-Sep-2017 08:16:30 UTC] PHP Fatal error:  Call to undefined method payroll_model::requested_date_details() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_advance_salary.php on line 282
+[18-Sep-2017 08:17:19 UTC] PHP Fatal error:  Call to undefined method payroll_model::requested_date_details() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_advance_salary.php on line 282
+[18-Sep-2017 08:38:42 UTC] PHP Fatal error:  Call to undefined method payroll_model::requested_date_details() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_advance_salary.php on line 282
+[18-Sep-2017 08:43:17 UTC] PHP Fatal error:  Call to undefined method payroll_model::requested_date_details() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_advance_salary.php on line 282
+[18-Sep-2017 08:48:35 UTC] PHP Fatal error:  Call to undefined method payroll_model::aadvance_salaries_report_view() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1707
+[18-Sep-2017 08:50:36 UTC] PHP Fatal error:  Call to undefined method payroll_model::requested_date_details() in /home/appcorbuz/public_html/app/application/views/payroll/dialog_advance_salary.php on line 282
+[18-Sep-2017 09:42:54 UTC] PHP Fatal error:  Call to undefined method department_model::xread_department_information() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1392
+[18-Sep-2017 09:45:25 UTC] PHP Fatal error:  Call to undefined method department_model::xread_department_information() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1392
+[18-Sep-2017 09:46:47 UTC] PHP Fatal error:  Call to undefined method department_model::xread_department_information() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1392
+[18-Sep-2017 09:46:56 UTC] PHP Fatal error:  Call to undefined method department_model::xread_department_information() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1392
+[18-Sep-2017 09:47:32 UTC] PHP Fatal error:  Call to undefined method department_model::xread_department_information() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1392
+[18-Sep-2017 09:47:34 UTC] PHP Fatal error:  Call to undefined method department_model::xread_department_information() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1392
+[18-Sep-2017 09:48:04 UTC] PHP Fatal error:  Call to undefined method department_model::xread_department_information() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1394
+[18-Sep-2017 09:48:25 UTC] PHP Fatal error:  Call to undefined method department_model::xread_department_information() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1393
+[18-Sep-2017 09:48:28 UTC] PHP Fatal error:  Call to undefined method department_model::xread_department_information() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1393
+[18-Sep-2017 09:48:30 UTC] PHP Fatal error:  Call to undefined method department_model::xread_department_information() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1393
+[19-Sep-2017 07:33:13 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/appcorbuz/public_html/app/application/controllers/Bug.php on line 89
+[19-Sep-2017 07:33:41 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/appcorbuz/public_html/app/application/controllers/Bug.php on line 89
+[19-Sep-2017 07:54:47 UTC] PHP Fatal error:  Call to undefined method Bug_model::read_bug_information() in /home/appcorbuz/public_html/app/application/controllers/Bug.php on line 103
+[19-Sep-2017 13:41:37 UTC] PHP Fatal error:  Call to undefined method payroll_model::updated_advance_salary_paid_amount() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2018
+[19-Sep-2017 13:41:42 UTC] PHP Fatal error:  Call to undefined method payroll_model::updated_advance_salary_paid_amount() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2018
+[19-Sep-2017 13:41:43 UTC] PHP Fatal error:  Call to undefined method payroll_model::updated_advance_salary_paid_amount() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2018
+[19-Sep-2017 13:41:45 UTC] PHP Fatal error:  Call to undefined method payroll_model::updated_advance_salary_paid_amount() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2018
+[19-Sep-2017 13:41:46 UTC] PHP Fatal error:  Call to undefined method payroll_model::updated_advance_salary_paid_amount() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2018
+[19-Sep-2017 13:43:18 UTC] PHP Fatal error:  Call to a member function set_mailtype() on null in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2077
+[19-Sep-2017 13:43:20 UTC] PHP Fatal error:  Call to a member function set_mailtype() on null in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2077
+[19-Sep-2017 13:45:06 UTC] PHP Fatal error:  Call to undefined method payroll_model::updated_advance_salary_paid_amount() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2018
+[19-Sep-2017 13:49:14 UTC] PHP Fatal error:  Call to undefined method payroll_model::updated_advance_salary_paid_amount() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2018
+[19-Sep-2017 14:04:50 UTC] PHP Fatal error:  Call to undefined method payroll_model::updated_advance_salary_paid_amount() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1924
+[19-Sep-2017 14:09:16 UTC] PHP Fatal error:  Call to undefined method payroll_model::updated_advance_salary_paid_amount() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1924
+[19-Sep-2017 14:12:56 UTC] PHP Fatal error:  Call to a member function set_mailtype() on null in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 1983
+[21-Sep-2017 06:55:07 UTC] PHP Fatal error:  Call to undefined method document_model::get_document_title_list() in /home/appcorbuz/public_html/app/application/controllers/Documents.php on line 41
+[21-Sep-2017 07:03:29 UTC] PHP Fatal error:  Call to undefined method document_model::get_document_title_list() in /home/appcorbuz/public_html/app/application/controllers/Documents.php on line 41
+[25-Sep-2017 12:24:09 UTC] PHP Fatal error:  Call to undefined method payroll_model::loan_report_view() in /home/appcorbuz/public_html/app/application/controllers/Payroll.php on line 2509
+[25-Sep-2017 13:11:06 UTC] PHP Fatal error:  Cannot redeclare payroll_model::updated_loan_paid_amount() in /home/appcorbuz/public_html/app/application/models/Payroll_model.php on line 433
+[25-Sep-2017 13:11:21 UTC] PHP Fatal error:  Cannot redeclare payroll_model::updated_loan_paid_amount() in /home/appcorbuz/public_html/app/application/models/Payroll_model.php on line 433
+[26-Sep-2017 07:04:35 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/appcorbuz/public_html/app/application/controllers/employee/Payroll.php on line 209
+[26-Sep-2017 07:04:42 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/appcorbuz/public_html/app/application/controllers/employee/Payroll.php on line 209
+[14-Oct-2017 15:37:07 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/corbuz/public_html/mail/PHPMailerAutoload.php:24) in /home/corbuz/public_html/mail/PHPMailerAutoload.php on line 31
+[15-Oct-2017 12:28:57 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/corbuz/public_html/app/application/controllers/employee/Announcement.php on line 82
+[21-Dec-2017 09:20:45 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/corbuz/public_html/mail/PHPMailerAutoload.php:24) in /home/corbuz/public_html/mail/PHPMailerAutoload.php on line 31
+[21-Dec-2017 09:20:56 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/corbuz/public_html/mail/PHPMailerAutoload.php:24) in /home/corbuz/public_html/mail/PHPMailerAutoload.php on line 31
+[26-Dec-2017 07:57:45 UTC] PHP Fatal error:  Cannot use [] for reading in /home/corbuz/public_html/app/application/controllers/Package.php on line 378
+[05-Mar-2018 08:35:57 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[12-Mar-2018 13:56:05 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[14-Mar-2018 09:56:36 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[14-Mar-2018 09:57:21 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[29-Mar-2018 12:41:01 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[29-Mar-2018 12:42:23 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[29-Mar-2018 12:42:36 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[29-Mar-2018 12:44:17 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[29-Mar-2018 12:44:26 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[29-Mar-2018 12:45:58 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[29-Mar-2018 12:46:09 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[29-Mar-2018 12:48:27 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[29-Mar-2018 12:48:40 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[29-Mar-2018 12:49:16 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[29-Mar-2018 12:50:02 UTC] PHP Fatal error:  Call to a member function read_department_information() on null in /home/hrmcorbuz/public_html/app/application/controllers/employee/Announcement.php on line 86
+[30-Sep-2019 08:01:38 UTC] PHP Fatal error:  require_once(): Failed opening required '../contacts/google-api-php-client/src/Google/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/corbuz/public_html/secure_crm/hrm/application/controllers/Contact.php on line 78
+[01-Jan-2020 14:26:48 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/corbuz/public_html/secure_crm/mail/PHPMailerAutoload.php:24) in /home/corbuz/public_html/secure_crm/mail/PHPMailerAutoload.php on line 31
+[12-Apr-2022 20:24:44 Asia/Dubai] PHP Fatal error:  require_once(): Failed opening required '../contacts/google-api-php-client/src/Google/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/corbuz/public_html/secure_crm/hrm/application/controllers/Contact.php on line 78

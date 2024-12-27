@@ -1,0 +1,44 @@
+S No.,employee_id,first_name,last_name,department,doj,designation,passport#,passport_expiry_date,visa #,visa_expiry_date,emirates_id,emirates_id_expiry,email
+1,101,Mahmoud ,Soliman Elsayed Eldahshan,Accounts, 01-09-17,Accountant,A14246259,17-Apr-29,201/2017/7154565,4-Oct-23,784-1987-4604252-6,4-Oct-23,mahmoud.auh@atcuae.ae
+2,102,Rocelle ,Alicante Peralta,Accounts, 01-02-09,Sr. Accountant,P4207347B,12-Dec-29,201/2009/7087459,12-Aug-24,784198032104733,12-Aug-24,rocelle@emso.ae
+3,103,Rahul ,Thaliyazchayil,Accounts, 19-12-14,Accountant,S6614713,8-Jul-28,201/2015/7000153,20-Jan-24,784198735876942,20-Jan-24,rahul@emso.ae
+4,104,Surya ,Manaramkunnil Soman,Accounts, 09-09-18,Accountant,V9166987,26-Sep-32,201/2022/7627469,1-Jan-25,784199708197597,1-Jan-25,surya@atcuae.ae
+5,201,Mamdouh Mahmoud ,Mousa Ibrahim Elmaadawy,Mobility, 18-02-08,Operations Manager - Mobility,A27632137,5-Dec-27,201/2008/7122857,13-Mar-23,784-1981-6276465-2,13-Mar-23,mamdouh@emso.ae
+6,202,Hamid Sulaiman ,Hamid Hamad Almazroui,Mobility,1-Feb-17,Deputy Director - Mobility,RZNG32585,9-Nov-25,LOCAL,LOCAL,784-1989-7142873-9,1-Oct-24,hamid.almazroui@emso.ae
+7,203,Abdalla Abdelfatah ,Mokhtar Mohamed Barakat,Mobility, 20-04-14,Customer Service Executive,A11344289,24-Jul-27,201/2014/7087741,2-Aug-23,784-1983-5406321-0,2-Aug-23,abdallahb@atcuae.ae
+8,204,Badr Mohamed ,Mahmoud Rostom,Mobility, 09-10-14,Customer Service Executive,A10482011,14-Jun-28,201/2014/7251381,21-Feb-24,784-1984-3583874-7,21-Feb-24,badr@atcuae.ae
+9,205,Mohamed Omar ,Yasin Abdalla,Mobility, 16-04-15,Customer Service Executive,A13990304,1-Nov-27,201/2015/7106077,24-Aug-24,784-1989-7957521-8,24-Aug-24,mohamedo@atcuae.ae
+10,206,Ashraf Saber ,Rizk,Mobility, 02-02-13,Customer Service Executive,012-18-L000723,21-Jan-24,201/2013/7098023,18-Jul-25,784-1988-9359037-6,18-Jul-25,ashraf@atcuae.ae
+11,207,Hossam Samir ,Mohamed Abdelazim Elkashlan,Mobility, 18-02-15,Customer Service Executive,A09006858,19-Jan-27,201/2015/7105007,28-Jul-24,784-1990-7264271-5,28-Jul-24,hossam@atcuae.ae
+12,208,Islam Rezk ,Mohamed Ibrahim Kayyal,Mobility, 08-12-15,Customer Service Executive,A15510481,6-Jun-29,201/2015/7337849,5-Mar-25,784-1985-6324176-3,5-Mar-25,islam@atcuae.ae
+13,209,Sanjay ,Suresh Babu,Mobility,1-Nov-22,Customer Service Executive,P2699341,20-Jul-26,201/2022/7588797,1-Jan-25,784199794875353,1-Jan-25,sanjay@atcuae.ae
+14,210,Abdallah Gharib ,Anwar Abdelkader Haroun,Mobility, 21-11-17,Customer Service Executive,A19762782,A19762782,201/2018/7206034,24-Apr-24,784-1991-6863103-6,24-Apr-24,a.gharib@atcuae.ae
+15,211,MAHMOUD ELSAYED ,MOHAMED ELWEKIL,Mobility, 01-11-21,Customer Service Executive,A27483993,30-Nov-27,201/2021/7515087,26-Jan-25,784199623166726,26-Jan-25,mahmoud.elsayed@emso.ae
+16,501,Veronika ,Falinska,Mobility, 15-08-17,Project Manager- Mobility,FB021306,9-Feb-25,201/2017/7127712,16-Oct-23,784-1991-9872029-6,16-Oct-23,veronika@emso.ae
+17,301,Bubindren ,Sampath Kumar,TIR, 02-07-15,Head of TIR ,R7661066,29-Apr-27,201/2015/7170497,8-Sep-24,784-1983-8063909-0,8-Sep-24,bubindren@atcuae.ae
+18,302,Rami ,Tahane,TIR, 19-04-18,TIR Project Manager,18DC54990,14-May-28,201/2018/7320838,2-Aug-24,784-1983-3750852-1,2-Aug-24,rami@atcuae.ae
+19,303,Abdul ,Nisar,TIR,14-Nov-22,TIR Development & Operations Assistant ,R7294114,27-Dec-27,201/2022/7624863,1-Jan-25,784-1983-8021703-8,1-Jan-25,abdul.n@atcuae.ae
+20,401,Bryan ,John Gener,Motorsports, 20-01-18,Motorsports Director,530759618,4-Oct-25,201/2018/7247094,9-May-24,784-1982-8681950-7,9-May-24,bryan@emso.ae
+21,402,Cesar ,Abou Chacra,Motorsports, 13-03-13,Event Manager,LR1851593,24-Aug-30,201/2013/7043043,24-Mar-24,784-1989-0769370-3,24-Mar-24,cesar@emso.ae
+22,403,Andreja ,Prel,Motorsports, 20-01-19,Project and Sustainability Manager,PB14584167,27-Jul-30,201/2019/7108189,26-Oct-24,784-1980-5149547-5,26-Oct-24,andreja@emso.ae
+23,404,Orwa ,Al shami,Motorsports, 28-11-15,Motorsports Administrator,N014038182,18-Dec-28,201/2015/7257729,28-Feb-28,784-1992-4195810-9,28-Feb-28,orwa@emso.ae
+24,405,Igor ,Sabodosh,Motorsports, 25-08-17,Supervisor,FT211168,13-Nov-28,201/2018/7314488,27-Jun-24,784-1983-8742430-6,27-Jun-24,Igor@emso.ae
+25,406,Fekry Raafat ,Fekry Tawadrous,Motorsports, 01-11-17,Motorsports Administrator,A20773991,11-Aug-24,201/2018/7206728,24-Apr-24,784-1993-6821364-3,24-Apr-24,fekri@emso.ae
+26,551,Ranjith ,Cholakkara,IT,1-Oct-22,IT Manager,M6559330,17-Feb-25,201/2022/7587761,1-Jan-25,784-1992-4517105-5,1-Jan-25,ranjithc@emso.ae
+27,601,Mohamed ,Kader Yusuff,Mobility, 15-05-12,Security,P7095181,12-Nov-26,201/2014/7310134,7-Jan-24,784-1975-7970968-0,7-Jan-24,mohammedkader729@gmail.com
+28,602,SHIHABUDEEN  ,RAHMATULLAH,Mobility, 01-05-17,Cleaner,X7672076,23-Mar-33,201/2017/7120151,29-Dec-23,784-1982-3681651-2,29-Dec-23,sahapudeen1980@gmail.com
+29,701,Atiq ,Hassan Mubarak,Sports Committee, 10-12-18,Senior Coordinator,FJN959385,1-Mar-25,N/A,N/A,784-1962-1609740-0,23-Apr-24,atiq@emso.ae
+30,702,Najoua ,Bali,Sports Committee, 26-02-14,Administrative Affairs Manager,H068321,26-Jul-25,201/2018/7493167,28-Nov-24,784-1970-1430872-6,28-Nov-24,najwa@emso.ae
+31,703,Anna May ,Marquez Etrata,Sports Committee, 01-06-15,Secretary,P5361024B,26-Jul-30,201/2018/7493042,28-Feb-25,784-1977-1535437-5,28-Feb-25,may@emso.ae
+32,704,ESSA ,MOHAMED ALI SALEH,Sports Committee, 01-09-12,Event Coordinator,NA,NA,N/A,N/A,78419703629718,16-Mar-28,rahul@atcuae.ae
+33,705,KASHIF ,MAHMOOD,Sports Committee, 16-05-17,Security,ZY0157262,3-Dec-29,201/2018/7493054,4-Mar-25,784-1989-5186805-2,4-Mar-25,rahul9846@gmail.com
+34,801,NANDAKUMAR ,GOPALAKRISHNAN,Executive Management, 11-04-10,Finance Manager,Z4685702,5-May-28,201/2010/7050856,2-May-25,784-1979-2192821-0,2-May-25,nandu@emso.ae
+35,802,Adel Kassem,Sarris,Executive Management, 01-11-05,Mobility Director,567371769,12-Mar-28,784-1959-6918182-5,30-Mar-24,784-1959-6918182-5,30-Mar-24,adel@emso.ae
+36,803,Mahir Abdulhamid ,Abdulrazaq Badri,Executive Management, 01-02-19,CEO,NZGN74279,22-Mar-26,N/A,N/A,N/A,N/A,mahir@emso.ae
+37,826,MOHAMMED ,AKRAM,Mobility,1-Jul-02,PRO,BP1322422,18-Jul-24,201/2020/3259702,16-Mar-25,784-1976-0502851-9,16-Mar-25,uaeakram@yahoo.com
+38,901,Femina ,Hassan,ESMA, 02-02-14,Secretary,N8500536,12-Sep-29,201/2014/7082769,1-Jun-24,784-1983-4807385-3,1-Jun-24,femina@emso.ae
+39,902,Satheendran Nair ,Gopinadhan Nair,ESMA, 28-04-04,Driver,R8084572,20-Jun-27,201/2013/7049881,21-Jul-25,784-1959-3680247-9,21-Jul-25,satheendrannair56@gmail.com
+40,903,Jakobus ,Johannes Nel,ESMA, 16-10-15,Mechanic,A04790654,29-Jun-25,201/2015/7308034,19-Feb-25,784-1980-7084792-0,19-Feb-25,jakobus@atcuae.ae
+41,904,Venugoplan ,Palappath,ESMA, 23-07-16,Mechanic,L5910989,17-Dec-23,784-1980-3768705-4,2-Nov-24,784-1980-3768705-4,2-Nov-24,vnugpalan@gmail.com
+42,905,Randy ,Jimenez Heludo,ESMA, 26-05-17,Mechanic,P1193550B,25-Mar-29,201/2017/7100453,6-Jan-24,784-1980-4739302-4,6-Jan-24,randyheludo1980@gmail.com
+43,906,SAHUL ,HAMEED KAJAMYDEEN,ESMA, 06-10-17,Cleaner,V7945073,19-May-32,201/2018/7206045,31-Aug-24,784-1992-3735908-0,31-Aug-24,sahulkbk123@gmail.com
